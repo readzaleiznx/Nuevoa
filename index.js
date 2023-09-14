@@ -17,7 +17,7 @@ say('Mystic - Bot\nWhatsApp Bot MD', {
   font: 'chrome',
   align: 'center',
   gradient: ['red', 'magenta']});
-say(`Bot creado por Bruno Sobrino`, {
+say(`DISFRUTA TU BOTCITO CREADOR POR ALEIZN-MD`, {
   font: 'console',
   align: 'center',
   gradient: ['red', 'magenta']});
