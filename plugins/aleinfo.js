@@ -20,7 +20,7 @@ let readMore = more.repeat(850)
 let taguser = '@' + m.sender.split("@s.whatsapp.net")[0]
 let str = `╭「𝙿𝚁𝙴𝙲𝙸𝙾𝚂 𝙳𝙴 𝙰𝙻𝙴𝙸𝚉𝙽」
 🎗️ *𝚃𝙴 𝙸𝙽𝙵𝙾𝚁𝙼𝙾 𝚂𝙾𝚈 𝙰𝙻𝙴𝙸𝚉𝙽-𝙼𝙳*-${taguser}
-🧑🏻‍💻 *𝙴𝚂𝚃𝙴 𝙴𝚂 𝙼𝙸 𝙽𝚄𝙼𝙴𝚁𝙾 𝙳𝙴 𝙲𝙾𝙽𝚂𝚄𝙻𝚃𝙰𝚂*: Wa.me/51906830557
+🧑🏻‍💻 *𝙴𝚂𝚃𝙴 𝙴𝚂 𝙼𝙸 𝙽𝚄𝙼𝙴𝚁𝙾 𝙳𝙴 𝙲𝙾𝙽𝚂𝚄𝙻𝚃𝙰𝚂*: Wa.me/51992621601
 
 🙋🏻‍♂️🙋🏻‍♀️BUSCAS BOTCITO PARA TU GRUPO 24/7⏳
  - TAMBIEN CREO BOTS PARA QUE TU LOS METAS ATUS NUMEROS🤖

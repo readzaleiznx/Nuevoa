@@ -35,7 +35,7 @@ export async function handler(chatUpdate) {
     return;
   }
   if (global.db.data == null) await global.loadDatabase();
-  /* Creditos a Otosaka (https://wa.me/51906830557) */
+  /* Creditos a Otosaka (https://wa.me/51992621601) */
 
   if (global.chatgpt.data === null) await global.loadChatgptDB();
 
@@ -51,7 +51,7 @@ export async function handler(chatUpdate) {
     try {
       // TODO: use loop to insert data instead of this
       const user = global.db.data.users[m.sender];
-      /* Creditos a Otosaka (https://wa.me/51906830557) */
+      /* Creditos a Otosaka (https://wa.me/51992621601) */
 
       const chatgptUser = global.chatgpt.data.users[m.sender];
       if (typeof chatgptUser !== 'object') {
